@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+README.TXT
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Media Computations 
+PURPOSE OF PROJECT: Implementing 2D Arrays to change pixels in
+                    an image
+VERSION or DATE: v3 ,(2/10/2023)
+AUTHORS: Daniel Yoon, APCSA23
+USER INSTRUCTIONS: Using Greenfoot, call methods to change pixels
+                   of the imported photo
+                   
+------------------------------------------------------------------------
