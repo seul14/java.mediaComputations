@@ -1,3 +1,1 @@
-
-
-<h2>Media Computation Project 📝</h2>
+<h1>Media Computation Project 📝</h1>
