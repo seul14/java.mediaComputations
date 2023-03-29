@@ -12,7 +12,6 @@
   <li>Create a new Scenario in Greenfoot.</li>
   <li>Rename your World Class “Canvas”</li>
 </ol>
-
 <br>
 <p><b>Part II:</b> Finding a Picture</p>
 
