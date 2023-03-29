@@ -26,10 +26,9 @@ A lot of websites will be blocked, but find one you can load the picture from, t
 picture and save it in the images folder for your Scenario. Make sure not to save the image
 directly from Google’s thumbnails – it won’t be the right size.</p>
 
-    <br>
+<br>
   
 <p><b>Part III:</b> Getting Started</p>
-
 
 <details>
   <summary><h3>Media Computation Project Rubric 📚</h3></summary>
