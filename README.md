@@ -28,14 +28,6 @@ directly from Google’s thumbnails – it won’t be the right size.</p>
 
 <p><b>Part III:</b> Getting Started</p>
 
-<p>Do a Google Image Search for a picture of your choice of a decent size. If you add 1024 x 768
-to your search, you can find some standard picture sizes that might be good.
-<br>
-Example: snowman 1024 768.
-<br>
-A lot of websites will be blocked, but find one you can load the picture from, then right click the
-picture and save it in the images folder for your Scenario. Make sure not to save the image
-directly from Google’s thumbnails – it won’t be the right size.</p>
 
 <details>
   <summary><h3>Media Computation Project Rubric 📚</h3></summary>
