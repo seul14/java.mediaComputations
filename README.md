@@ -49,30 +49,14 @@ directly from Google’s thumbnails – it won’t be the right size.</p>
         <td>_____ / 1</td>
       </tr>
       <tr>
-        <th colspan="2"><b>Part I: Statistics Program</th>
+        <th colspan="2"><b>Constructor</th>
       </tr>
       <tr>
-        <td>1) Prompts user for input</td>
+        <td>1) Calls parent classes constructor (super)</td>
         <td>_____ / 1</td>
       </tr>
       <tr>
-        <td>2) Correctly accepts user input for number of values</td>
-        <td>_____ / 1</td>
-      </tr>
-      <tr>
-        <td>3) Loops to accept the appropriate number of values based on criteria #2</td>
-        <td>_____ / 1</td>
-      </tr>
-      <tr>
-        <td>4) Prompts user for input values and correctly accepts those values</td>
-        <td>_____ / 1</td>
-      </tr>
-      <tr>
-        <td>5) Uses input to correctly calculate sums</td>
-        <td>_____ / 1</td>
-      </tr>
-      <tr>
-        <td>6) Uses input to correctly calculate average</td>
+        <td>2) Calls reset method</td>
         <td>_____ / 1</td>
       </tr>
       <tr>
