@@ -5,17 +5,17 @@
 </head>
 <body>
   
-<h2>Media COmputation Project Instructions 📝</h2>
+<h2>Media Computation Project Instructions 📝</h2>
 
 <p><b>Part I:</b> Create a Greenfoot Project</p>
 <ol type="1">
-  <li>1. Create a new Scenario in Greenfoot.</li>
-  <li>2. Rename your World Class “Canvas”</li>
+  <li>Create a new Scenario in Greenfoot.</li>
+  <li>Rename your World Class “Canvas”</li>
 </ol>
 
 <br>
 
-<p><b>Part II:</b>Finding a Picture</p>
+<p><b>Part II:</b> Finding a Picture</p>
 
 <p>Do a Google Image Search for a picture of your choice of a decent size. If you add 1024 x 768
 to your search, you can find some standard picture sizes that might be good.
