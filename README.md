@@ -14,7 +14,6 @@
 </ol>
 
 <br>
-
 <p><b>Part II:</b> Finding a Picture</p>
 
 <p>Do a Google Image Search for a picture of your choice of a decent size. If you add 1024 x 768
