@@ -11,8 +11,10 @@
 <ol type="1">
   <li>Create a new Scenario in Greenfoot.</li>
   <li>Rename your World Class “Canvas”</li>
-</ol>
-<br>
+  </ol>
+  
+  <br>
+  
 <p><b>Part II:</b> Finding a Picture</p>
 
 <p>Do a Google Image Search for a picture of your choice of a decent size. If you add 1024 x 768
@@ -24,6 +26,8 @@ A lot of websites will be blocked, but find one you can load the picture from, t
 picture and save it in the images folder for your Scenario. Make sure not to save the image
 directly from Google’s thumbnails – it won’t be the right size.</p>
 
+    <br>
+  
 <p><b>Part III:</b> Getting Started</p>
 
 
